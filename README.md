@@ -1,4 +1,4 @@
-#<h1> Favoritar-Paises</h1>
+<h1> Favoritar-Paises</h1>
 Aplicação de lista de países favoritos, desenvolvida em aula prática do Bootcamp de Desenvolvedor Full Stack do IGTI.
 
 Favoritar-Paises
