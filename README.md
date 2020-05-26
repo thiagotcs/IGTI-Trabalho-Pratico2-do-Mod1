@@ -1,4 +1,4 @@
-# IGTI-Trabalho-Pratico2-do-Mod1
+#<h1> Favoritar-Paises</h1>
 Aplicação de lista de países favoritos, desenvolvida em aula prática do Bootcamp de Desenvolvedor Full Stack do IGTI.
 
 Favoritar-Paises
@@ -6,7 +6,7 @@ Aplicação de lista de países para favoritar, desenvolvida em aula prática do
 
 Link para acessar a aplicação online: Favoritar-Paises
 
-Check ✓
+<h1>Check ✓</h1>
 (✓) Criar variáveis de estado da aplicação
 
 (✓) Criar eventListnener de load com função start
